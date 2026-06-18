@@ -1,22 +1,22 @@
-# Classificador de Heróis e Party RPG
+# Classificador de Nível de Herói
 
 Projeto desenvolvido em **JavaScript** como parte dos estudos realizados na **DIO (Digital Innovation One)**.
 
-A primeira parte deste projeto consiste na resolução do desafio **"Classificador de Nível de Herói"**, proposto pela plataforma DIO. Após concluir o desafio, desenvolvi uma segunda versão utilizando minha própria lógica e criatividade para reforçar os conceitos aprendidos.
+Este repositório contém a resolução do desafio **"Classificador de Nível de Herói"**, proposto pela DIO, além de uma implementação adicional criada por mim para praticar e reforçar os conceitos aprendidos durante o desenvolvimento.
 
 ---
 
 ## 📋 Objetivo
 
-Este projeto possui duas implementações:
+O repositório possui dois arquivos independentes:
 
-### 🛡️ Classificador de Nível de Herói
+### 🛡️ Desafio Classificador de Nível de Herói
 
-Resolução do desafio proposto pela **DIO**, onde um herói é classificado de acordo com sua quantidade de XP utilizando estruturas condicionais.
+Implementação desenvolvida seguindo os requisitos do desafio proposto pela **DIO**, utilizando estruturas condicionais para classificar um herói de acordo com sua quantidade de XP.
 
 ### ⚔️ Party RPG
 
-Versão desenvolvida por mim para praticar os mesmos conceitos de forma mais completa, utilizando arrays e laços de repetição para classificar vários personagens de uma equipe de RPG.
+Implementação criada por mim para expandir o exercício, utilizando arrays e laços de repetição para classificar uma equipe de personagens de RPG conforme seus níveis.
 
 ---
 
@@ -43,35 +43,35 @@ Versão desenvolvida por mim para praticar os mesmos conceitos de forma mais com
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/EduardoCassin12/classificador-herois-rpg.git
+git clone https://github.com/EduardoCassin12/classificador-nivel-heroi.git
 ```
 
 2. Entre na pasta do projeto:
 
 ```bash
-cd classificador-herois-rpg
+cd classificador-nivel-heroi
 ```
 
-3. Execute o arquivo principal:
+3. Execute o arquivo desejado:
 
 ```bash
 node src/desafio.js
+```
+
 ou
+
+```bash
 node src/desafioadicional.js
 ```
 
 ---
 
-## 📷 Exemplo de saída
+## 📁 Estrutura do projeto
 
 ```text
-O Herói Geraldo da Massa está no nível Ouro
-
-O(a) personagem Anna está no nível 15, é um(a) Paladino e possui classificação Avançado.
-O(a) personagem Eduardo está no nível 7, é um(a) Ladino e possui classificação Intermediário.
-O(a) personagem Alan está no nível 8, é um(a) Mago e possui classificação Intermediário.
-O(a) personagem Erick está no nível 4, é um(a) Bárbaro e possui classificação Iniciante.
-O(a) personagem Deivid está no nível 19, é um(a) Feiticeiro e possui classificação Mestre.
+📁 src
+├── desafio.js
+└── desafioadicional.js
 ```
 
 ---
