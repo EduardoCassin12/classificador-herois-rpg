@@ -55,7 +55,9 @@ cd classificador-herois-rpg
 3. Execute o arquivo principal:
 
 ```bash
-node src/index.js
+node src/desafio.js
+ou
+node src/desafioadicional.js
 ```
 
 ---
