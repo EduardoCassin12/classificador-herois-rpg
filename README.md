@@ -43,7 +43,7 @@ Implementação criada por mim para expandir o exercício, utilizando arrays e l
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/EduardoCassin12/classificador-nivel-heroi.git
+git clone https://github.com/EduardoCassin12/classificador-herois-rpg
 ```
 
 2. Entre na pasta do projeto:
